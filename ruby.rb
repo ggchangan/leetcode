@@ -1,5 +1,5 @@
 class HelloWorld
     def self.hello
-      puts "Hello World"
+      puts "World"
     end
 end
