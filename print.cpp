@@ -1,1 +1,1 @@
-print how to use diff
+test content
